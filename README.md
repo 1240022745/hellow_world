@@ -1,2 +1,0 @@
-# hellow_world
-abc
